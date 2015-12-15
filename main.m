@@ -6,7 +6,7 @@ addpath(genpath('GCMex'));
 
 DO_GRABCUT  = true;
 
-img = imread('tree.jpg');
+img = imread('test_dog.jpg');
 
 %Run grab cut.
 if DO_GRABCUT

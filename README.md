@@ -8,6 +8,7 @@ A special thanks to my group members, Ryan Kuck & Michael Meyer.
 ---
 
 ## Using Grabcut
+###### Implemented in MATLAB
 
 Run the code in **main.m**, draw a bounding box around the foreground object.
 

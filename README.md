@@ -1,7 +1,7 @@
 # GrabCut
 ###### GrabCut : interactive foreground extraction using iterated graph cuts
 
-I implemented GrabCut for my final project in CS 445 - Computational Photograpy @ [UIUC]
+I implemented GrabCut for my final project in CS 445 - Computational Photography @ [UIUC]
 
 A special thanks to my group members, Ryan Kuck & Michael Meyer. 
 

@@ -18,6 +18,16 @@ Potential Updates:
 * Bordering matting technique 
 
 ---
+### Results
+
+![alt text](https://github.com/nadr0/GrabCut/blob/master/test_dog.jpg "Logo Title Text 1")
+![alt text](https://github.com/nadr0/GrabCut/blob/master/final_result_dog.jpg "Logo Title Text 1")
+
+
+![alt text](https://github.com/nadr0/GrabCut/blob/master/flower.jpg "Logo Title Text 1")
+![alt text](https://github.com/nadr0/GrabCut/blob/master/final_flower.jpg "Logo Title Text 1")
+
+---
 ```
 References:
 
